@@ -4,13 +4,10 @@
 ---
 
 ### ÍNDICE
-- [PRÁCTICAS DWES](#prácticas-dwes)
-  - [Alejandro Vaquero Abad](#alejandro-vaquero-abad)
-    - [ÍNDICE](#índice)
-    - [Actividad 1](#actividad-1)
-    - [Actividad 2](#actividad-2)
-    - [Actividad 3](#actividad-3)
-    - [Actividad 4](#actividad-4)
+- [Actividad 1](#actividad-1)
+- [Actividad 2](#actividad-2)
+- [Actividad 3](#actividad-3)
+- [Actividad 4](#actividad-4)
 
 ---
 
